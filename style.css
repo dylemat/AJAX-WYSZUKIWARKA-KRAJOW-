@@ -1,9 +1,11 @@
 body {
   font-family: sans-serif;
-  color: #FFF;
-  background-color: #2c3e50;
-  margin: 0 auto;
-  text-align: center;
+  color: black;
+  background-image: url(2a.png);
+  background-repeat: repeat;
+
+ margin: 0 auto;
+ text-align: center;
 }
 
 h1,
@@ -28,7 +30,7 @@ ul {
 }
 
 button {
-	border-radius: 15px;
+    border-radius: 15px;
   border: 2px solid white;
   height: 35px;
   width: 200px;
